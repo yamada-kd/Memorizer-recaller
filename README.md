@@ -1,6 +1,6 @@
 # Memorizer-Recaller
 
-This repository contains the source codes for generating the memorizer-recaller network, which is proposed in the article, "[Developing appendable memory system towards permanent memory for artificial intelligence to acquire new knowledge after deployment](https://www.biorxiv.org/content/10.1101/2023.05.25.542376v1)."
+This repository contains the source codes for generating the memorizer-recaller network, which is proposed in the article, "[Developing appendable memory system towards permanent memory for artificial intelligence to acquire new knowledge after deployment](https://www.biorxiv.org/content/10.1101/2023.05.25.542376v2)."
 
 These codes have been tested and are known to work with Python 3.7.7 and TensorFlow 2.2.0.
 
